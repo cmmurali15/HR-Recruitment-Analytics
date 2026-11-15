@@ -1,0 +1,3 @@
+id,name,company,round_stage,result,completion_status,validation_status,interview_date,location
+101,Arun,"ABC Corp",R1,Pass,Completed,Valid,2024-01-10,Chennai
+102,Meena,"XYZ Ltd",R2,Pass,Completed,Invalid,2024-01-12,Bangalore

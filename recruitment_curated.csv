@@ -1,0 +1,501 @@
+candidate_id,candidate_name,company,job_role,round_stage,result,completion_status,validation_status,interview_date,location,source,experience_years,candidate_outcome
+1,"Candidate 001",NovaTech,"Power BI Developer",Screening,Fail,Complete,Validated,2026-03-13,Bengaluru,Agency,10,"Not Selected"
+2,"Candidate 002",DataBridge,"Business Analyst",Screening,Pass,Complete,Validated,2026-01-14,Mumbai,Naukri,6,Selected
+3,"Candidate 003",InnovaWorks,"Data Engineer","Technical Round",Pass,Complete,Pending,2026-03-23,Hyderabad,Referral,3,Selected
+4,"Candidate 004",BluePeak,"Data Engineer",Offer,Pass,Complete,Validated,2026-02-19,Mumbai,"Career Portal",3,Selected
+5,"Candidate 005",NovaTech,"Power BI Developer","HR Round",Fail,Complete,"Issue Found",2026-07-13,Hyderabad,Agency,0,"Not Selected"
+6,"Candidate 006",BluePeak,"Data Analyst","Manager Round",Fail,Complete,Validated,2026-04-27,Chennai,LinkedIn,5,"Not Selected"
+7,"Candidate 007",BluePeak,"Business Analyst","Technical Round",Fail,Complete,Validated,2026-07-09,Hyderabad,LinkedIn,6,"Not Selected"
+8,"Candidate 008",InnovaWorks,"Data Engineer","Manager Round",Fail,Complete,Validated,2026-08-25,Mumbai,Referral,9,"Not Selected"
+9,"Candidate 009",BluePeak,"HR Analyst","Technical Round",Fail,Complete,Validated,2026-01-17,Hyderabad,LinkedIn,10,"Not Selected"
+10,"Candidate 010",InnovaWorks,"HR Analyst",Offer,Fail,Complete,Validated,2026-04-19,Pune,Referral,3,"Not Selected"
+11,"Candidate 011",DataBridge,"HR Analyst",Screening,Fail,Complete,Validated,2026-08-08,Hyderabad,Referral,4,"Not Selected"
+12,"Candidate 012","Apex Systems","Business Analyst","Manager Round",Pass,Complete,Validated,2026-02-26,Pune,Agency,2,Selected
+13,"Candidate 013",DataBridge,"Data Analyst","Technical Round",Fail,Complete,Validated,2026-05-09,Bengaluru,Agency,1,"Not Selected"
+14,"Candidate 014",InnovaWorks,"Data Analyst","HR Round",Pass,Complete,Validated,2026-03-22,Hyderabad,Agency,4,Selected
+15,"Candidate 015",DataBridge,"Business Analyst","Manager Round",Pass,Complete,Validated,2026-09-17,Chennai,"Career Portal",2,Selected
+16,"Candidate 016",DataBridge,"Data Engineer","Manager Round",Fail,Complete,Validated,2026-01-01,Pune,LinkedIn,2,"Not Selected"
+17,"Candidate 017",DataBridge,"Data Analyst",Offer,Pending,Incomplete,Validated,2026-05-04,Bengaluru,Naukri,1,Pending
+18,"Candidate 018",DataBridge,"Business Analyst",Offer,Fail,Complete,Validated,2026-09-01,Hyderabad,Agency,1,"Not Selected"
+19,"Candidate 019",BluePeak,"HR Analyst","Technical Round",Pass,Complete,Validated,2026-04-13,Hyderabad,Naukri,9,Selected
+20,"Candidate 020",DataBridge,"Power BI Developer","Manager Round",Pass,Complete,Validated,2026-01-11,Chennai,Agency,8,Selected
+21,"Candidate 021",NovaTech,"Data Engineer",Screening,Fail,Complete,Validated,2026-02-04,Bengaluru,Agency,3,"Not Selected"
+22,"Candidate 022","Apex Systems","HR Analyst","Technical Round",Fail,Complete,Validated,2026-08-31,Pune,Referral,3,"Not Selected"
+23,"Candidate 023",NovaTech,"Data Analyst",Screening,Pass,Complete,Validated,2026-08-28,Bengaluru,Naukri,1,Selected
+24,"Candidate 024","Apex Systems","HR Analyst","HR Round",Pass,Complete,Validated,2026-08-18,Chennai,"Career Portal",5,Selected
+25,"Candidate 025",NovaTech,"Power BI Developer","Technical Round",Pending,Incomplete,Pending,2026-02-20,Bengaluru,LinkedIn,7,Pending
+26,"Candidate 026",NovaTech,"Business Analyst",Screening,Fail,Complete,Validated,2026-07-25,Pune,LinkedIn,3,"Not Selected"
+27,"Candidate 027",DataBridge,"HR Analyst","Technical Round",Fail,Complete,Validated,2026-08-05,Chennai,Referral,6,"Not Selected"
+28,"Candidate 028",BluePeak,"Data Analyst","Technical Round",Pass,Complete,Validated,2026-02-01,Bengaluru,Agency,4,Selected
+29,"Candidate 029",NovaTech,"Business Analyst","Manager Round",Pending,Complete,Validated,2026-09-18,Bengaluru,Agency,7,Pending
+30,"Candidate 030",DataBridge,"Power BI Developer","HR Round",Pass,Complete,Validated,2026-05-07,Bengaluru,Agency,1,Selected
+31,"Candidate 031","Apex Systems","Data Engineer","Technical Round",Fail,Complete,Validated,2026-05-14,Chennai,"Career Portal",1,"Not Selected"
+32,"Candidate 032",NovaTech,"HR Analyst",Screening,Fail,Complete,Validated,2026-02-07,Mumbai,Agency,6,"Not Selected"
+33,"Candidate 033",NovaTech,"Business Analyst",Screening,Pass,Complete,Validated,2026-06-28,Hyderabad,"Career Portal",1,Selected
+34,"Candidate 034",NovaTech,"Power BI Developer","Technical Round",Fail,Complete,Validated,2026-09-28,Hyderabad,LinkedIn,2,"Not Selected"
+35,"Candidate 035",BluePeak,"Business Analyst","Technical Round",Pending,Complete,Validated,2026-04-18,Hyderabad,Agency,2,Pending
+36,"Candidate 036",BluePeak,"Data Analyst","Technical Round",Pending,Complete,Validated,2026-08-05,Bengaluru,"Career Portal",7,Pending
+37,"Candidate 037",DataBridge,"Data Analyst","Manager Round",Pass,Complete,Validated,2026-08-07,Bengaluru,LinkedIn,2,Selected
+38,"Candidate 038",InnovaWorks,"Business Analyst","Manager Round",Fail,Complete,Validated,2026-03-17,Bengaluru,"Career Portal",2,"Not Selected"
+39,"Candidate 039","Apex Systems","Business Analyst",Offer,Fail,Complete,Pending,2026-07-03,Bengaluru,"Career Portal",5,"Not Selected"
+40,"Candidate 040","Apex Systems","Business Analyst",Offer,Pass,Complete,Validated,2026-03-21,Chennai,Naukri,8,Selected
+41,"Candidate 041",BluePeak,"Business Analyst",Screening,Pending,Incomplete,Pending,2026-05-08,Bengaluru,Naukri,0,Pending
+42,"Candidate 042",BluePeak,"Data Engineer",Offer,Pass,Complete,Pending,2026-08-24,Chennai,Referral,0,Selected
+43,"Candidate 043",BluePeak,"Data Engineer","Manager Round",Pass,Complete,Validated,2026-02-05,Mumbai,Naukri,0,Selected
+44,"Candidate 044",BluePeak,"Business Analyst",Offer,Fail,Complete,"Issue Found",2026-03-01,Mumbai,"Career Portal",10,"Not Selected"
+45,"Candidate 045",InnovaWorks,"Power BI Developer",Screening,Pass,Complete,Validated,2026-06-10,Mumbai,LinkedIn,0,Selected
+46,"Candidate 046",NovaTech,"Power BI Developer",Offer,Pass,Complete,Validated,2026-08-12,Mumbai,Referral,6,Selected
+47,"Candidate 047",BluePeak,"Power BI Developer","Technical Round",Pending,Incomplete,Validated,2026-03-05,Hyderabad,Naukri,5,Pending
+48,"Candidate 048",InnovaWorks,"Business Analyst","Technical Round",Pass,Complete,Validated,2026-08-04,Mumbai,Agency,5,Selected
+49,"Candidate 049",InnovaWorks,"Power BI Developer","Technical Round",Fail,Complete,Validated,2026-04-18,Mumbai,"Career Portal",4,"Not Selected"
+50,"Candidate 050",NovaTech,"Data Engineer","Technical Round",Fail,Complete,Validated,2026-03-28,Mumbai,Agency,7,"Not Selected"
+51,"Candidate 051","Apex Systems","Business Analyst",Screening,Pending,Complete,Validated,2026-04-26,Bengaluru,LinkedIn,5,Pending
+52,"Candidate 052",InnovaWorks,"Power BI Developer",Offer,Fail,Complete,Pending,2026-08-22,Chennai,Naukri,3,"Not Selected"
+53,"Candidate 053",InnovaWorks,"Business Analyst","Technical Round",Pass,Complete,Validated,2026-02-24,Chennai,Agency,7,Selected
+54,"Candidate 054","Apex Systems","HR Analyst",Screening,Pass,Complete,Pending,2026-08-22,Mumbai,Agency,7,Selected
+55,"Candidate 055",InnovaWorks,"Power BI Developer","Technical Round",Fail,Complete,Validated,2026-09-16,Pune,Referral,9,"Not Selected"
+56,"Candidate 056",DataBridge,"HR Analyst","Manager Round",Fail,Complete,Pending,2026-05-22,Chennai,"Career Portal",7,"Not Selected"
+57,"Candidate 057",DataBridge,"Data Analyst",Screening,Pass,Complete,Validated,2026-06-13,Chennai,Referral,7,Selected
+58,"Candidate 058",InnovaWorks,"Data Engineer","Technical Round",Pass,Complete,Validated,2026-08-01,Mumbai,Naukri,3,Selected
+59,"Candidate 059",DataBridge,"HR Analyst",Screening,Fail,Complete,Validated,2026-01-11,Pune,LinkedIn,6,"Not Selected"
+60,"Candidate 060",DataBridge,"Power BI Developer","Technical Round",Pass,Complete,Pending,2026-08-03,Mumbai,Referral,5,Selected
+61,"Candidate 061",InnovaWorks,"Business Analyst","Technical Round",Pass,Complete,Validated,2026-06-22,Pune,Referral,7,Selected
+62,"Candidate 062","Apex Systems","HR Analyst","Manager Round",Pending,Complete,Validated,2026-08-08,Chennai,LinkedIn,9,Pending
+63,"Candidate 063",BluePeak,"HR Analyst","Technical Round",Pass,Complete,Validated,2026-07-14,Hyderabad,LinkedIn,4,Selected
+64,"Candidate 064","Apex Systems","Data Analyst",Screening,Fail,Complete,"Issue Found",2026-06-29,Bengaluru,LinkedIn,7,"Not Selected"
+65,"Candidate 065",InnovaWorks,"Data Analyst",Screening,Pass,Complete,Validated,2026-03-06,Mumbai,Referral,3,Selected
+66,"Candidate 066","Apex Systems","Data Engineer","HR Round",Fail,Complete,Validated,2026-02-28,Bengaluru,Agency,7,"Not Selected"
+67,"Candidate 067",InnovaWorks,"Business Analyst",Offer,Fail,Complete,Pending,2026-07-12,Bengaluru,Agency,0,"Not Selected"
+68,"Candidate 068",DataBridge,"Data Analyst","Technical Round",Fail,Complete,Validated,2026-03-03,Hyderabad,Agency,10,"Not Selected"
+69,"Candidate 069",InnovaWorks,"HR Analyst","Manager Round",Pass,Complete,Validated,2026-01-07,Bengaluru,Naukri,6,Selected
+70,"Candidate 070","Apex Systems","Power BI Developer","Manager Round",Fail,Complete,Validated,2026-08-11,Hyderabad,Agency,5,"Not Selected"
+71,"Candidate 071",BluePeak,"Business Analyst","HR Round",Fail,Complete,Pending,2026-05-18,Bengaluru,"Career Portal",8,"Not Selected"
+72,"Candidate 072",BluePeak,"Data Analyst","Technical Round",Fail,Complete,Validated,2026-07-14,Pune,"Career Portal",7,"Not Selected"
+73,"Candidate 073",DataBridge,"Data Engineer","Manager Round",Pass,Complete,Validated,2026-05-24,Mumbai,LinkedIn,2,Selected
+74,"Candidate 074",DataBridge,"Business Analyst",Offer,Pass,Complete,Validated,2026-09-08,Pune,Naukri,8,Selected
+75,"Candidate 075",BluePeak,"Power BI Developer","HR Round",Pass,Complete,Validated,2026-05-05,Hyderabad,Naukri,7,Selected
+76,"Candidate 076",BluePeak,"HR Analyst","Manager Round",Pass,Complete,Validated,2026-06-19,Hyderabad,"Career Portal",8,Selected
+77,"Candidate 077","Apex Systems","Business Analyst","Technical Round",Fail,Complete,Validated,2026-04-05,Pune,"Career Portal",4,"Not Selected"
+78,"Candidate 078","Apex Systems","Data Engineer",Offer,Fail,Complete,Validated,2026-02-21,Chennai,"Career Portal",9,"Not Selected"
+79,"Candidate 079",NovaTech,"Power BI Developer","Technical Round",Fail,Complete,Validated,2026-01-24,Hyderabad,Referral,2,"Not Selected"
+80,"Candidate 080",InnovaWorks,"HR Analyst",Offer,Fail,Complete,Pending,2026-05-26,Pune,"Career Portal",10,"Not Selected"
+81,"Candidate 081",NovaTech,"HR Analyst",Offer,Pass,Complete,Pending,2026-02-28,Pune,LinkedIn,2,Selected
+82,"Candidate 082",NovaTech,"Business Analyst","Manager Round",Pass,Complete,Validated,2026-06-05,Bengaluru,Agency,9,Selected
+83,"Candidate 083",InnovaWorks,"HR Analyst","Manager Round",Fail,Complete,Validated,2026-09-25,Pune,"Career Portal",6,"Not Selected"
+84,"Candidate 084","Apex Systems","Business Analyst",Offer,Pass,Complete,Validated,2026-02-20,Hyderabad,LinkedIn,9,Selected
+85,"Candidate 085",InnovaWorks,"Power BI Developer","Technical Round",Fail,Complete,Validated,2026-07-29,Pune,"Career Portal",2,"Not Selected"
+86,"Candidate 086",NovaTech,"Business Analyst","Technical Round",Fail,Complete,Validated,2026-08-21,Hyderabad,Agency,0,"Not Selected"
+87,"Candidate 087","Apex Systems","Data Engineer","HR Round",Pass,Complete,Validated,2026-04-26,Chennai,LinkedIn,10,Selected
+88,"Candidate 088",InnovaWorks,"Data Analyst",Screening,Pass,Complete,Validated,2026-05-28,Pune,"Career Portal",0,Selected
+89,"Candidate 089",DataBridge,"Data Analyst",Offer,Fail,Complete,Validated,2026-02-11,Pune,"Career Portal",6,"Not Selected"
+90,"Candidate 090",BluePeak,"Power BI Developer","Technical Round",Pass,Complete,"Issue Found",2026-01-11,Bengaluru,Referral,9,Selected
+91,"Candidate 091",InnovaWorks,"Data Analyst","Manager Round",Pass,Complete,Validated,2026-08-12,Pune,"Career Portal",7,Selected
+92,"Candidate 092",InnovaWorks,"HR Analyst","Technical Round",Fail,Complete,Pending,2026-06-18,Hyderabad,Naukri,6,"Not Selected"
+93,"Candidate 093",InnovaWorks,"Power BI Developer",Screening,Pass,Complete,Validated,2026-03-01,Bengaluru,Agency,8,Selected
+94,"Candidate 094",InnovaWorks,"Data Analyst","Technical Round",Pass,Complete,Validated,2026-09-13,Chennai,"Career Portal",7,Selected
+95,"Candidate 095",NovaTech,"Data Analyst",Screening,Pass,Complete,Pending,2026-09-06,Mumbai,Referral,8,Selected
+96,"Candidate 096",NovaTech,"HR Analyst","Technical Round",Pass,Complete,Validated,2026-04-26,Bengaluru,Referral,2,Selected
+97,"Candidate 097",InnovaWorks,"HR Analyst",Offer,Pass,Complete,Validated,2026-08-01,Chennai,Naukri,7,Selected
+98,"Candidate 098",NovaTech,"Data Engineer",Screening,Pass,Complete,Validated,2026-03-11,Pune,"Career Portal",8,Selected
+99,"Candidate 099","Apex Systems","HR Analyst","Technical Round",Pass,Complete,Validated,2026-09-08,Mumbai,Naukri,8,Selected
+100,"Candidate 100","Apex Systems","Business Analyst","Technical Round",Fail,Complete,Validated,2026-06-14,Mumbai,Naukri,5,"Not Selected"
+101,"Candidate 101",InnovaWorks,"HR Analyst",Offer,Pass,Complete,Validated,2026-08-31,Chennai,Naukri,3,Selected
+102,"Candidate 102",NovaTech,"Power BI Developer",Screening,Pending,Incomplete,Pending,2026-08-14,Pune,LinkedIn,0,Pending
+103,"Candidate 103",BluePeak,"Data Engineer","Technical Round",Fail,Complete,Validated,2026-08-29,Mumbai,Naukri,2,"Not Selected"
+104,"Candidate 104",BluePeak,"HR Analyst",Screening,Pass,Complete,Validated,2026-07-14,Mumbai,LinkedIn,10,Selected
+105,"Candidate 105",NovaTech,"HR Analyst",Screening,Fail,Complete,Pending,2026-04-27,Bengaluru,LinkedIn,9,"Not Selected"
+106,"Candidate 106",NovaTech,"Data Engineer",Screening,Pass,Complete,Validated,2026-06-16,Hyderabad,"Career Portal",7,Selected
+107,"Candidate 107","Apex Systems","Business Analyst",Screening,Fail,Complete,Validated,2026-04-03,Bengaluru,Agency,6,"Not Selected"
+108,"Candidate 108","Apex Systems","HR Analyst","Manager Round",Pass,Complete,Pending,2026-03-15,Hyderabad,Naukri,6,Selected
+109,"Candidate 109",NovaTech,"HR Analyst","Manager Round",Pending,Incomplete,Pending,2026-03-22,Hyderabad,Agency,4,Pending
+110,"Candidate 110","Apex Systems","HR Analyst","Manager Round",Pass,Complete,Validated,2026-06-04,Pune,LinkedIn,4,Selected
+111,"Candidate 111",NovaTech,"HR Analyst","Technical Round",Pass,Complete,Validated,2026-06-01,Hyderabad,LinkedIn,3,Selected
+112,"Candidate 112",BluePeak,"Business Analyst",Offer,Fail,Complete,"Issue Found",2026-09-12,Mumbai,"Career Portal",9,"Not Selected"
+113,"Candidate 113",NovaTech,"Data Analyst","Manager Round",Fail,Complete,Validated,2026-03-12,Hyderabad,Naukri,3,"Not Selected"
+114,"Candidate 114",BluePeak,"HR Analyst","Manager Round",Fail,Complete,Validated,2026-06-01,Chennai,Referral,0,"Not Selected"
+115,"Candidate 115","Apex Systems","Data Engineer","HR Round",Pending,Incomplete,Validated,2026-05-20,Pune,"Career Portal",2,Pending
+116,"Candidate 116",InnovaWorks,"Power BI Developer","HR Round",Fail,Complete,Validated,2026-04-26,Hyderabad,LinkedIn,5,"Not Selected"
+117,"Candidate 117",DataBridge,"HR Analyst",Screening,Fail,Complete,Validated,2026-05-15,Hyderabad,LinkedIn,6,"Not Selected"
+118,"Candidate 118",DataBridge,"Business Analyst","Technical Round",Pass,Complete,Pending,2026-06-17,Bengaluru,Naukri,10,Selected
+119,"Candidate 119",BluePeak,"HR Analyst","Manager Round",Pass,Complete,Validated,2026-01-20,Bengaluru,LinkedIn,4,Selected
+120,"Candidate 120",DataBridge,"Business Analyst",Offer,Pass,Complete,Validated,2026-08-03,Pune,LinkedIn,3,Selected
+121,"Candidate 121","Apex Systems","HR Analyst","Manager Round",Pending,Incomplete,Validated,2026-07-09,Pune,Referral,7,Pending
+122,"Candidate 122",NovaTech,"HR Analyst",Screening,Fail,Complete,Validated,2026-07-03,Hyderabad,Referral,5,"Not Selected"
+123,"Candidate 123",DataBridge,"Data Analyst",Offer,Fail,Complete,Validated,2026-04-19,Bengaluru,"Career Portal",1,"Not Selected"
+124,"Candidate 124",DataBridge,"Business Analyst",Offer,Fail,Complete,Validated,2026-04-17,Chennai,"Career Portal",3,"Not Selected"
+125,"Candidate 125","Apex Systems","Power BI Developer","HR Round",Fail,Complete,Validated,2026-03-16,Hyderabad,Referral,2,"Not Selected"
+126,"Candidate 126",DataBridge,"Data Engineer","Manager Round",Pass,Complete,Validated,2026-05-02,Bengaluru,Referral,1,Selected
+127,"Candidate 127",InnovaWorks,"HR Analyst",Screening,Fail,Complete,Validated,2026-02-02,Hyderabad,Agency,4,"Not Selected"
+128,"Candidate 128",DataBridge,"Data Engineer",Screening,Fail,Complete,"Issue Found",2026-01-23,Pune,LinkedIn,9,"Not Selected"
+129,"Candidate 129",InnovaWorks,"HR Analyst",Offer,Fail,Complete,Validated,2026-02-25,Bengaluru,LinkedIn,0,"Not Selected"
+130,"Candidate 130",InnovaWorks,"Power BI Developer","Manager Round",Pass,Complete,Validated,2026-06-16,Mumbai,"Career Portal",5,Selected
+131,"Candidate 131",DataBridge,"Business Analyst","Manager Round",Pass,Complete,Pending,2026-02-28,Pune,Naukri,7,Selected
+132,"Candidate 132",BluePeak,"HR Analyst","Technical Round",Fail,Complete,Validated,2026-02-18,Hyderabad,"Career Portal",3,"Not Selected"
+133,"Candidate 133",NovaTech,"Data Analyst",Offer,Fail,Complete,Validated,2026-02-16,Pune,LinkedIn,5,"Not Selected"
+134,"Candidate 134",NovaTech,"HR Analyst","HR Round",Fail,Complete,Validated,2026-06-18,Hyderabad,Naukri,5,"Not Selected"
+135,"Candidate 135","Apex Systems","Business Analyst",Offer,Fail,Complete,Validated,2026-09-17,Pune,Referral,0,"Not Selected"
+136,"Candidate 136",DataBridge,"Business Analyst","Technical Round",Fail,Complete,Validated,2026-05-23,Pune,Agency,1,"Not Selected"
+137,"Candidate 137",NovaTech,"Business Analyst","Manager Round",Fail,Complete,Validated,2026-05-17,Hyderabad,"Career Portal",9,"Not Selected"
+138,"Candidate 138",NovaTech,"Business Analyst","Technical Round",Pass,Complete,Validated,2026-07-25,Bengaluru,LinkedIn,5,Selected
+139,"Candidate 139",BluePeak,"Data Engineer","Technical Round",Pass,Complete,Validated,2026-07-09,Mumbai,Agency,8,Selected
+140,"Candidate 140",NovaTech,"Data Engineer",Offer,Pass,Complete,Pending,2026-01-26,Pune,Naukri,1,Selected
+141,"Candidate 141",NovaTech,"Data Engineer","Manager Round",Pass,Complete,Validated,2026-09-20,Pune,LinkedIn,7,Selected
+142,"Candidate 142",NovaTech,"Business Analyst","HR Round",Fail,Complete,Validated,2026-06-07,Pune,Agency,4,"Not Selected"
+143,"Candidate 143",BluePeak,"Data Engineer",Screening,Pass,Complete,Validated,2026-03-12,Hyderabad,LinkedIn,0,Selected
+144,"Candidate 144",DataBridge,"Power BI Developer","Manager Round",Pass,Complete,Validated,2026-04-28,Hyderabad,LinkedIn,0,Selected
+145,"Candidate 145",BluePeak,"Power BI Developer",Offer,Pass,Complete,Validated,2026-02-09,Pune,Agency,6,Selected
+146,"Candidate 146",BluePeak,"Business Analyst","HR Round",Pass,Complete,Validated,2026-01-11,Mumbai,Naukri,6,Selected
+147,"Candidate 147",DataBridge,"Data Analyst",Screening,Fail,Complete,Validated,2026-07-25,Pune,"Career Portal",5,"Not Selected"
+148,"Candidate 148",DataBridge,"Power BI Developer","Technical Round",Fail,Complete,Validated,2026-02-28,Chennai,"Career Portal",5,"Not Selected"
+149,"Candidate 149",NovaTech,"Business Analyst","HR Round",Fail,Complete,Pending,2026-05-01,Hyderabad,Referral,5,"Not Selected"
+150,"Candidate 150",InnovaWorks,"HR Analyst","Manager Round",Fail,Complete,Validated,2026-04-01,Mumbai,Agency,2,"Not Selected"
+151,"Candidate 151","Apex Systems","HR Analyst","HR Round",Pending,Incomplete,Pending,2026-06-11,Bengaluru,Naukri,7,Pending
+152,"Candidate 152",DataBridge,"Data Analyst","Manager Round",Fail,Complete,Validated,2026-06-30,Hyderabad,Naukri,7,"Not Selected"
+153,"Candidate 153",DataBridge,"Power BI Developer",Screening,Pass,Complete,Validated,2026-02-16,Mumbai,Naukri,7,Selected
+154,"Candidate 154",BluePeak,"Power BI Developer","Manager Round",Pending,Complete,Validated,2026-04-07,Pune,Agency,7,Pending
+155,"Candidate 155",NovaTech,"Power BI Developer",Offer,Fail,Complete,Pending,2026-06-25,Chennai,LinkedIn,2,"Not Selected"
+156,"Candidate 156",InnovaWorks,"HR Analyst","HR Round",Pending,Complete,Validated,2026-05-25,Hyderabad,Agency,3,Pending
+157,"Candidate 157",DataBridge,"HR Analyst","HR Round",Fail,Complete,Validated,2026-02-18,Hyderabad,"Career Portal",0,"Not Selected"
+158,"Candidate 158",DataBridge,"Business Analyst",Offer,Fail,Complete,Validated,2026-02-11,Hyderabad,"Career Portal",10,"Not Selected"
+159,"Candidate 159",BluePeak,"Power BI Developer","HR Round",Pass,Complete,Validated,2026-02-13,Pune,"Career Portal",10,Selected
+160,"Candidate 160",NovaTech,"HR Analyst","HR Round",Fail,Complete,Validated,2026-09-27,Mumbai,"Career Portal",2,"Not Selected"
+161,"Candidate 161","Apex Systems","Business Analyst","Technical Round",Pass,Complete,Validated,2026-09-06,Chennai,Referral,0,Selected
+162,"Candidate 162",NovaTech,"Data Engineer","Technical Round",Fail,Complete,Validated,2026-09-27,Mumbai,Referral,1,"Not Selected"
+163,"Candidate 163",InnovaWorks,"Data Analyst","Technical Round",Pass,Complete,Pending,2026-03-26,Pune,"Career Portal",9,Selected
+164,"Candidate 164","Apex Systems","Power BI Developer","HR Round",Pending,Incomplete,Pending,2026-08-18,Chennai,"Career Portal",10,Pending
+165,"Candidate 165",InnovaWorks,"Data Engineer",Offer,Pass,Complete,Validated,2026-08-14,Pune,Agency,7,Selected
+166,"Candidate 166",BluePeak,"Data Analyst","Technical Round",Pass,Complete,Validated,2026-03-12,Pune,"Career Portal",8,Selected
+167,"Candidate 167",BluePeak,"Data Analyst",Offer,Fail,Complete,Validated,2026-03-05,Chennai,"Career Portal",8,"Not Selected"
+168,"Candidate 168",InnovaWorks,"Data Engineer",Offer,Pass,Complete,Validated,2026-04-24,Bengaluru,Naukri,7,Selected
+169,"Candidate 169",BluePeak,"Business Analyst","Technical Round",Pass,Complete,Validated,2026-02-11,Bengaluru,"Career Portal",0,Selected
+170,"Candidate 170",NovaTech,"Data Engineer","HR Round",Fail,Complete,Pending,2026-03-12,Pune,Referral,1,"Not Selected"
+171,"Candidate 171","Apex Systems","Business Analyst","Technical Round",Pass,Complete,Validated,2026-05-12,Mumbai,Agency,7,Selected
+172,"Candidate 172",NovaTech,"Business Analyst","Technical Round",Fail,Complete,Validated,2026-03-04,Pune,Agency,8,"Not Selected"
+173,"Candidate 173",DataBridge,"Power BI Developer",Screening,Fail,Complete,Validated,2026-01-09,Chennai,Referral,7,"Not Selected"
+174,"Candidate 174","Apex Systems","Data Analyst","Technical Round",Fail,Complete,Validated,2026-08-02,Mumbai,"Career Portal",4,"Not Selected"
+175,"Candidate 175",DataBridge,"Data Analyst",Offer,Fail,Complete,Pending,2026-09-17,Pune,Naukri,1,"Not Selected"
+176,"Candidate 176",NovaTech,"Data Engineer","Manager Round",Pending,Incomplete,Validated,2026-07-02,Chennai,LinkedIn,0,Pending
+177,"Candidate 177","Apex Systems","HR Analyst","HR Round",Pass,Complete,Validated,2026-06-23,Pune,Referral,9,Selected
+178,"Candidate 178","Apex Systems","Data Analyst",Screening,Fail,Complete,Validated,2026-05-31,Chennai,LinkedIn,2,"Not Selected"
+179,"Candidate 179",BluePeak,"Data Analyst",Offer,Fail,Complete,"Issue Found",2026-08-31,Chennai,"Career Portal",5,"Not Selected"
+180,"Candidate 180",NovaTech,"Data Engineer",Offer,Pass,Complete,Validated,2026-05-20,Pune,Naukri,5,Selected
+181,"Candidate 181",InnovaWorks,"Data Engineer",Offer,Pass,Complete,"Issue Found",2026-09-12,Mumbai,"Career Portal",7,Selected
+182,"Candidate 182",DataBridge,"Data Engineer","HR Round",Pass,Complete,Validated,2026-04-03,Hyderabad,LinkedIn,1,Selected
+183,"Candidate 183","Apex Systems","HR Analyst","Technical Round",Pass,Complete,Validated,2026-08-07,Hyderabad,Naukri,1,Selected
+184,"Candidate 184",NovaTech,"HR Analyst","HR Round",Pending,Incomplete,Validated,2026-01-30,Hyderabad,Agency,0,Pending
+185,"Candidate 185",NovaTech,"Business Analyst",Screening,Pass,Complete,Pending,2026-08-13,Bengaluru,Referral,10,Selected
+186,"Candidate 186",InnovaWorks,"Data Engineer","Technical Round",Pass,Complete,Validated,2026-03-20,Hyderabad,Naukri,10,Selected
+187,"Candidate 187","Apex Systems","Data Analyst","Manager Round",Fail,Complete,Validated,2026-05-23,Bengaluru,Referral,1,"Not Selected"
+188,"Candidate 188",InnovaWorks,"Business Analyst","Manager Round",Pending,Complete,Validated,2026-05-14,Mumbai,"Career Portal",7,Pending
+189,"Candidate 189",InnovaWorks,"Data Analyst","Technical Round",Pass,Complete,Validated,2026-03-30,Hyderabad,"Career Portal",7,Selected
+190,"Candidate 190","Apex Systems","Data Engineer","Manager Round",Pass,Complete,Validated,2026-03-22,Mumbai,Referral,1,Selected
+191,"Candidate 191",NovaTech,"Data Engineer",Offer,Fail,Complete,Validated,2026-09-10,Mumbai,Agency,1,"Not Selected"
+192,"Candidate 192",NovaTech,"Data Engineer","Manager Round",Pending,Complete,Validated,2026-02-14,Pune,Naukri,5,Pending
+193,"Candidate 193",BluePeak,"Data Analyst","Technical Round",Pass,Complete,Validated,2026-03-06,Pune,Naukri,8,Selected
+194,"Candidate 194","Apex Systems","HR Analyst","Manager Round",Pass,Complete,Pending,2026-04-04,Mumbai,LinkedIn,10,Selected
+195,"Candidate 195",BluePeak,"Power BI Developer","Manager Round",Pass,Complete,Validated,2026-04-26,Hyderabad,LinkedIn,1,Selected
+196,"Candidate 196",DataBridge,"Power BI Developer",Screening,Pending,Incomplete,Validated,2026-06-05,Bengaluru,Agency,4,Pending
+197,"Candidate 197",DataBridge,"Data Analyst",Screening,Pending,Complete,Validated,2026-06-22,Bengaluru,LinkedIn,10,Pending
+198,"Candidate 198",DataBridge,"HR Analyst",Offer,Fail,Complete,Validated,2026-04-18,Mumbai,LinkedIn,0,"Not Selected"
+199,"Candidate 199",InnovaWorks,"Business Analyst",Offer,Fail,Complete,Validated,2026-06-04,Pune,"Career Portal",7,"Not Selected"
+200,"Candidate 200",InnovaWorks,"Business Analyst",Screening,Pass,Complete,Validated,2026-09-05,Hyderabad,Agency,7,Selected
+201,"Candidate 201",InnovaWorks,"Business Analyst","Technical Round",Fail,Complete,Validated,2026-06-26,Hyderabad,Agency,2,"Not Selected"
+202,"Candidate 202","Apex Systems","Business Analyst",Screening,Pass,Complete,Validated,2026-08-19,Bengaluru,LinkedIn,8,Selected
+203,"Candidate 203",BluePeak,"Power BI Developer",Offer,Pending,Incomplete,Validated,2026-03-23,Hyderabad,Referral,4,Pending
+204,"Candidate 204",InnovaWorks,"Data Analyst","Manager Round",Fail,Complete,Validated,2026-06-07,Bengaluru,Naukri,2,"Not Selected"
+205,"Candidate 205",NovaTech,"Data Engineer","Manager Round",Pass,Complete,Validated,2026-01-25,Pune,Agency,8,Selected
+206,"Candidate 206",InnovaWorks,"Business Analyst","HR Round",Pass,Complete,Validated,2026-02-25,Hyderabad,"Career Portal",10,Selected
+207,"Candidate 207",BluePeak,"Power BI Developer","Technical Round",Pass,Complete,Validated,2026-04-10,Hyderabad,LinkedIn,6,Selected
+208,"Candidate 208","Apex Systems","Data Analyst","Manager Round",Fail,Complete,Validated,2026-03-02,Pune,"Career Portal",6,"Not Selected"
+209,"Candidate 209",InnovaWorks,"Power BI Developer","Manager Round",Pass,Complete,Validated,2026-09-18,Bengaluru,LinkedIn,5,Selected
+210,"Candidate 210","Apex Systems","Power BI Developer",Screening,Pass,Complete,Validated,2026-08-22,Mumbai,Referral,0,Selected
+211,"Candidate 211",DataBridge,"Data Engineer",Offer,Pass,Complete,Validated,2026-06-03,Mumbai,Agency,5,Selected
+212,"Candidate 212",BluePeak,"Data Engineer","Manager Round",Fail,Complete,Validated,2026-01-09,Bengaluru,Naukri,8,"Not Selected"
+213,"Candidate 213",DataBridge,"Power BI Developer","Technical Round",Pending,Complete,Validated,2026-05-16,Chennai,LinkedIn,9,Pending
+214,"Candidate 214","Apex Systems","Business Analyst","Manager Round",Fail,Complete,Validated,2026-07-14,Bengaluru,Agency,9,"Not Selected"
+215,"Candidate 215","Apex Systems","HR Analyst",Screening,Pass,Complete,Validated,2026-07-31,Mumbai,Agency,1,Selected
+216,"Candidate 216",DataBridge,"Business Analyst",Offer,Fail,Complete,Validated,2026-03-12,Mumbai,"Career Portal",7,"Not Selected"
+217,"Candidate 217",DataBridge,"Data Engineer","Manager Round",Pass,Complete,"Issue Found",2026-08-24,Mumbai,"Career Portal",10,Selected
+218,"Candidate 218",DataBridge,"HR Analyst","HR Round",Fail,Complete,Validated,2026-05-16,Chennai,Referral,10,"Not Selected"
+219,"Candidate 219",BluePeak,"Business Analyst","Manager Round",Pass,Complete,"Issue Found",2026-06-02,Pune,"Career Portal",4,Selected
+220,"Candidate 220",InnovaWorks,"Data Engineer","Technical Round",Pending,Incomplete,Validated,2026-07-14,Chennai,"Career Portal",7,Pending
+221,"Candidate 221",BluePeak,"HR Analyst","Technical Round",Fail,Complete,Validated,2026-08-15,Chennai,Referral,0,"Not Selected"
+222,"Candidate 222",DataBridge,"Power BI Developer","Technical Round",Fail,Complete,Validated,2026-02-25,Chennai,Referral,8,"Not Selected"
+223,"Candidate 223",NovaTech,"HR Analyst","Manager Round",Fail,Complete,Validated,2026-01-27,Hyderabad,Naukri,0,"Not Selected"
+224,"Candidate 224",InnovaWorks,"HR Analyst","HR Round",Pass,Complete,"Issue Found",2026-03-22,Pune,Referral,1,Selected
+225,"Candidate 225",DataBridge,"Business Analyst","Technical Round",Fail,Complete,Pending,2026-02-15,Mumbai,LinkedIn,4,"Not Selected"
+226,"Candidate 226",InnovaWorks,"HR Analyst","Technical Round",Fail,Complete,"Issue Found",2026-01-19,Chennai,"Career Portal",2,"Not Selected"
+227,"Candidate 227",BluePeak,"HR Analyst",Screening,Fail,Complete,Validated,2026-06-21,Mumbai,Agency,0,"Not Selected"
+228,"Candidate 228","Apex Systems","Data Analyst",Offer,Pass,Complete,Validated,2026-05-20,Hyderabad,Referral,7,Selected
+229,"Candidate 229",BluePeak,"Power BI Developer","Manager Round",Fail,Complete,Validated,2026-06-22,Chennai,Referral,7,"Not Selected"
+230,"Candidate 230",InnovaWorks,"Data Analyst",Offer,Pending,Incomplete,Validated,2026-02-14,Chennai,Referral,9,Pending
+231,"Candidate 231",InnovaWorks,"Data Engineer","Technical Round",Pass,Complete,Validated,2026-05-01,Hyderabad,"Career Portal",7,Selected
+232,"Candidate 232",NovaTech,"Data Analyst","HR Round",Pass,Complete,Validated,2026-05-01,Pune,"Career Portal",9,Selected
+233,"Candidate 233",NovaTech,"Data Engineer","Technical Round",Fail,Complete,Pending,2026-06-09,Hyderabad,Agency,2,"Not Selected"
+234,"Candidate 234",InnovaWorks,"Power BI Developer","Technical Round",Pass,Complete,Validated,2026-07-11,Pune,Agency,3,Selected
+235,"Candidate 235",DataBridge,"HR Analyst","HR Round",Fail,Complete,Validated,2026-02-11,Mumbai,"Career Portal",10,"Not Selected"
+236,"Candidate 236","Apex Systems","Power BI Developer",Offer,Pass,Complete,Pending,2026-09-16,Mumbai,Referral,1,Selected
+237,"Candidate 237",DataBridge,"HR Analyst","Technical Round",Fail,Complete,Validated,2026-04-16,Bengaluru,Agency,2,"Not Selected"
+238,"Candidate 238",DataBridge,"Data Analyst","HR Round",Fail,Complete,Validated,2026-08-22,Mumbai,Naukri,7,"Not Selected"
+239,"Candidate 239","Apex Systems","Power BI Developer","HR Round",Fail,Complete,Validated,2026-01-02,Bengaluru,LinkedIn,10,"Not Selected"
+240,"Candidate 240",InnovaWorks,"Data Analyst","Technical Round",Pass,Complete,"Issue Found",2026-02-05,Hyderabad,Naukri,6,Selected
+241,"Candidate 241",BluePeak,"HR Analyst","HR Round",Fail,Complete,"Issue Found",2026-08-04,Pune,Naukri,2,"Not Selected"
+242,"Candidate 242",NovaTech,"Business Analyst",Screening,Pending,Complete,Validated,2026-06-28,Mumbai,Naukri,6,Pending
+243,"Candidate 243",InnovaWorks,"Power BI Developer",Screening,Pending,Complete,Pending,2026-06-02,Pune,Agency,8,Pending
+244,"Candidate 244","Apex Systems","Data Analyst","HR Round",Pass,Complete,Validated,2026-05-22,Bengaluru,Naukri,6,Selected
+245,"Candidate 245",NovaTech,"Power BI Developer","HR Round",Pending,Complete,Validated,2026-02-04,Bengaluru,Naukri,9,Pending
+246,"Candidate 246",InnovaWorks,"Business Analyst","HR Round",Pending,Complete,Validated,2026-07-25,Mumbai,Referral,9,Pending
+247,"Candidate 247",DataBridge,"Power BI Developer",Screening,Pending,Complete,Pending,2026-06-13,Hyderabad,Referral,0,Pending
+248,"Candidate 248",NovaTech,"Power BI Developer",Offer,Pending,Complete,Validated,2026-05-21,Mumbai,Referral,4,Pending
+249,"Candidate 249",InnovaWorks,"Power BI Developer","HR Round",Fail,Complete,Validated,2026-06-26,Hyderabad,Naukri,10,"Not Selected"
+250,"Candidate 250","Apex Systems","Business Analyst",Screening,Pass,Complete,Pending,2026-08-31,Hyderabad,Referral,6,Selected
+251,"Candidate 251",InnovaWorks,"Business Analyst",Offer,Fail,Complete,"Issue Found",2026-03-10,Hyderabad,Referral,7,"Not Selected"
+252,"Candidate 252",NovaTech,"Data Engineer","Manager Round",Pending,Incomplete,Validated,2026-04-08,Pune,Agency,5,Pending
+253,"Candidate 253",InnovaWorks,"Business Analyst",Screening,Pass,Complete,Pending,2026-04-22,Hyderabad,"Career Portal",9,Selected
+254,"Candidate 254","Apex Systems","Power BI Developer","Technical Round",Pass,Complete,Validated,2026-09-03,Chennai,Naukri,0,Selected
+255,"Candidate 255",BluePeak,"Data Engineer","Manager Round",Fail,Complete,Validated,2026-07-03,Hyderabad,Agency,3,"Not Selected"
+256,"Candidate 256","Apex Systems","Data Engineer","Manager Round",Fail,Complete,Validated,2026-06-13,Hyderabad,Naukri,7,"Not Selected"
+257,"Candidate 257",DataBridge,"Power BI Developer","Manager Round",Pass,Complete,Validated,2026-05-14,Mumbai,Naukri,0,Selected
+258,"Candidate 258",InnovaWorks,"Power BI Developer",Screening,Pass,Complete,Validated,2026-05-06,Hyderabad,"Career Portal",4,Selected
+259,"Candidate 259",BluePeak,"Business Analyst",Offer,Fail,Complete,Validated,2026-03-28,Chennai,Agency,7,"Not Selected"
+260,"Candidate 260",NovaTech,"Data Analyst",Screening,Pending,Complete,Validated,2026-02-08,Pune,Referral,7,Pending
+261,"Candidate 261",InnovaWorks,"Data Engineer","Technical Round",Fail,Complete,Validated,2026-09-16,Bengaluru,Agency,10,"Not Selected"
+262,"Candidate 262",NovaTech,"Data Analyst","Manager Round",Fail,Complete,Validated,2026-09-07,Mumbai,Agency,10,"Not Selected"
+263,"Candidate 263",NovaTech,"Power BI Developer",Screening,Fail,Complete,Validated,2026-05-27,Pune,Referral,6,"Not Selected"
+264,"Candidate 264",BluePeak,"Data Engineer",Offer,Fail,Complete,Validated,2026-09-27,Hyderabad,Naukri,1,"Not Selected"
+265,"Candidate 265",BluePeak,"Data Analyst","Technical Round",Pass,Complete,Validated,2026-04-26,Bengaluru,LinkedIn,1,Selected
+266,"Candidate 266","Apex Systems","Data Analyst","Technical Round",Fail,Complete,Validated,2026-01-05,Pune,Naukri,6,"Not Selected"
+267,"Candidate 267",DataBridge,"Data Analyst","HR Round",Fail,Complete,Pending,2026-02-18,Chennai,Referral,10,"Not Selected"
+268,"Candidate 268",DataBridge,"Power BI Developer","Manager Round",Pass,Complete,Validated,2026-05-24,Bengaluru,Referral,9,Selected
+269,"Candidate 269",NovaTech,"Data Engineer",Screening,Pass,Complete,Validated,2026-07-23,Chennai,Agency,5,Selected
+270,"Candidate 270",InnovaWorks,"Business Analyst","Manager Round",Fail,Complete,Validated,2026-06-19,Bengaluru,Agency,3,"Not Selected"
+271,"Candidate 271",DataBridge,"Power BI Developer",Screening,Pass,Complete,Pending,2026-06-24,Mumbai,Naukri,5,Selected
+272,"Candidate 272","Apex Systems","Data Engineer",Screening,Pass,Complete,"Issue Found",2026-09-09,Mumbai,Naukri,5,Selected
+273,"Candidate 273","Apex Systems","Data Analyst",Screening,Fail,Complete,Validated,2026-06-01,Bengaluru,"Career Portal",6,"Not Selected"
+274,"Candidate 274",BluePeak,"Data Engineer","Technical Round",Fail,Complete,Validated,2026-07-19,Bengaluru,LinkedIn,2,"Not Selected"
+275,"Candidate 275","Apex Systems","Data Analyst",Offer,Pass,Complete,Pending,2026-02-22,Chennai,Naukri,0,Selected
+276,"Candidate 276",BluePeak,"Power BI Developer","Manager Round",Fail,Complete,Validated,2026-02-15,Bengaluru,Agency,7,"Not Selected"
+277,"Candidate 277",NovaTech,"Power BI Developer","HR Round",Pending,Complete,Validated,2026-07-18,Chennai,Agency,9,Pending
+278,"Candidate 278",BluePeak,"HR Analyst",Screening,Pass,Complete,Validated,2026-06-04,Chennai,LinkedIn,8,Selected
+279,"Candidate 279",BluePeak,"Data Engineer","Technical Round",Pass,Complete,Validated,2026-02-09,Chennai,Naukri,2,Selected
+280,"Candidate 280",InnovaWorks,"Data Engineer","Manager Round",Fail,Complete,Validated,2026-01-04,Mumbai,Naukri,9,"Not Selected"
+281,"Candidate 281",BluePeak,"Data Engineer","Technical Round",Pass,Complete,Pending,2026-03-11,Mumbai,Referral,5,Selected
+282,"Candidate 282",DataBridge,"Business Analyst","Technical Round",Pending,Incomplete,Validated,2026-09-09,Hyderabad,Naukri,7,Pending
+283,"Candidate 283",DataBridge,"Power BI Developer","HR Round",Pass,Complete,Validated,2026-04-13,Chennai,Agency,4,Selected
+284,"Candidate 284",BluePeak,"Data Analyst",Offer,Fail,Complete,Validated,2026-08-13,Pune,Naukri,0,"Not Selected"
+285,"Candidate 285",InnovaWorks,"Data Analyst","Manager Round",Pass,Complete,Validated,2026-08-05,Pune,Agency,2,Selected
+286,"Candidate 286",DataBridge,"Data Analyst","Manager Round",Fail,Complete,Pending,2026-08-03,Hyderabad,Agency,7,"Not Selected"
+287,"Candidate 287","Apex Systems","Power BI Developer","Manager Round",Pass,Complete,Pending,2026-07-01,Bengaluru,Agency,9,Selected
+288,"Candidate 288",NovaTech,"Data Analyst","HR Round",Pass,Complete,Pending,2026-08-09,Bengaluru,"Career Portal",10,Selected
+289,"Candidate 289",InnovaWorks,"Data Engineer","Manager Round",Fail,Complete,Validated,2026-04-24,Pune,Naukri,3,"Not Selected"
+290,"Candidate 290",InnovaWorks,"Data Analyst","Manager Round",Fail,Complete,Validated,2026-01-13,Hyderabad,Naukri,10,"Not Selected"
+291,"Candidate 291",InnovaWorks,"Business Analyst",Screening,Pending,Complete,Validated,2026-06-25,Mumbai,Naukri,1,Pending
+292,"Candidate 292",NovaTech,"Data Engineer","Manager Round",Pass,Complete,Validated,2026-06-13,Bengaluru,LinkedIn,5,Selected
+293,"Candidate 293","Apex Systems","Power BI Developer","HR Round",Fail,Complete,Validated,2026-03-26,Chennai,Agency,0,"Not Selected"
+294,"Candidate 294","Apex Systems","Business Analyst","Technical Round",Pass,Complete,Validated,2026-07-27,Pune,Naukri,2,Selected
+295,"Candidate 295",NovaTech,"Business Analyst","HR Round",Pending,Incomplete,Validated,2026-07-19,Chennai,"Career Portal",0,Pending
+296,"Candidate 296",BluePeak,"Business Analyst","Manager Round",Fail,Complete,Validated,2026-07-07,Pune,LinkedIn,1,"Not Selected"
+297,"Candidate 297",DataBridge,"HR Analyst","HR Round",Fail,Complete,"Issue Found",2026-06-10,Mumbai,Naukri,4,"Not Selected"
+298,"Candidate 298",BluePeak,"Power BI Developer",Screening,Pass,Complete,Validated,2026-03-30,Mumbai,LinkedIn,9,Selected
+299,"Candidate 299",BluePeak,"Business Analyst",Screening,Pass,Complete,Validated,2026-04-04,Mumbai,Naukri,10,Selected
+300,"Candidate 300",DataBridge,"Business Analyst","Manager Round",Fail,Complete,Validated,2026-09-07,Mumbai,Referral,6,"Not Selected"
+301,"Candidate 301",BluePeak,"Data Analyst","Technical Round",Pass,Complete,Pending,2026-01-28,Pune,Referral,7,Selected
+302,"Candidate 302",InnovaWorks,"HR Analyst","HR Round",Pending,Incomplete,Validated,2026-09-09,Pune,Referral,3,Pending
+303,"Candidate 303",BluePeak,"Business Analyst","Manager Round",Fail,Complete,Validated,2026-01-17,Mumbai,"Career Portal",1,"Not Selected"
+304,"Candidate 304",DataBridge,"Power BI Developer","HR Round",Fail,Complete,Pending,2026-09-11,Bengaluru,Agency,2,"Not Selected"
+305,"Candidate 305",InnovaWorks,"Power BI Developer","Technical Round",Fail,Complete,"Issue Found",2026-01-22,Chennai,Naukri,1,"Not Selected"
+306,"Candidate 306",InnovaWorks,"Data Engineer","HR Round",Fail,Complete,Validated,2026-01-17,Hyderabad,LinkedIn,1,"Not Selected"
+307,"Candidate 307",DataBridge,"Data Engineer",Offer,Pass,Complete,Pending,2026-04-18,Mumbai,Naukri,7,Selected
+308,"Candidate 308",DataBridge,"Data Engineer","Manager Round",Fail,Complete,Pending,2026-01-31,Mumbai,"Career Portal",2,"Not Selected"
+309,"Candidate 309",DataBridge,"Data Engineer","Manager Round",Pass,Complete,Validated,2026-05-29,Mumbai,LinkedIn,9,Selected
+310,"Candidate 310","Apex Systems","Business Analyst",Offer,Fail,Complete,Pending,2026-05-22,Chennai,Referral,2,"Not Selected"
+311,"Candidate 311","Apex Systems","Power BI Developer","HR Round",Fail,Complete,Validated,2026-09-08,Hyderabad,Naukri,5,"Not Selected"
+312,"Candidate 312",InnovaWorks,"Power BI Developer","Manager Round",Fail,Complete,Pending,2026-02-17,Hyderabad,"Career Portal",6,"Not Selected"
+313,"Candidate 313",InnovaWorks,"Data Engineer",Offer,Pass,Complete,Validated,2026-02-17,Bengaluru,Agency,7,Selected
+314,"Candidate 314",BluePeak,"Data Engineer","Technical Round",Pass,Complete,Validated,2026-05-18,Hyderabad,Agency,6,Selected
+315,"Candidate 315",NovaTech,"Data Analyst",Screening,Pending,Incomplete,Pending,2026-01-25,Pune,LinkedIn,9,Pending
+316,"Candidate 316","Apex Systems","Business Analyst",Offer,Pass,Complete,Validated,2026-08-08,Hyderabad,Referral,1,Selected
+317,"Candidate 317",NovaTech,"HR Analyst",Screening,Pass,Complete,Validated,2026-03-26,Hyderabad,Referral,4,Selected
+318,"Candidate 318",NovaTech,"Business Analyst","Manager Round",Fail,Complete,Validated,2026-09-02,Mumbai,Referral,6,"Not Selected"
+319,"Candidate 319",InnovaWorks,"Business Analyst","HR Round",Pass,Complete,Validated,2026-03-03,Pune,LinkedIn,8,Selected
+320,"Candidate 320",BluePeak,"Data Engineer","Technical Round",Fail,Complete,Validated,2026-06-10,Chennai,Naukri,3,"Not Selected"
+321,"Candidate 321",DataBridge,"Business Analyst","Manager Round",Fail,Complete,Validated,2026-01-05,Pune,"Career Portal",2,"Not Selected"
+322,"Candidate 322","Apex Systems","Data Analyst","Manager Round",Pass,Complete,Validated,2026-08-15,Bengaluru,Referral,3,Selected
+323,"Candidate 323","Apex Systems","Business Analyst","Manager Round",Pass,Complete,"Issue Found",2026-06-11,Hyderabad,LinkedIn,1,Selected
+324,"Candidate 324",BluePeak,"Business Analyst","Manager Round",Fail,Complete,Validated,2026-01-14,Mumbai,Agency,3,"Not Selected"
+325,"Candidate 325",InnovaWorks,"HR Analyst",Screening,Pass,Complete,Validated,2026-05-03,Bengaluru,Referral,8,Selected
+326,"Candidate 326",BluePeak,"Data Engineer","Manager Round",Pass,Complete,Pending,2026-01-07,Chennai,Naukri,7,Selected
+327,"Candidate 327",NovaTech,"Data Analyst","Technical Round",Fail,Complete,Validated,2026-08-30,Mumbai,LinkedIn,9,"Not Selected"
+328,"Candidate 328",DataBridge,"Data Engineer","Technical Round",Pass,Complete,Validated,2026-07-23,Mumbai,Naukri,0,Selected
+329,"Candidate 329",BluePeak,"Data Analyst","HR Round",Pass,Complete,Validated,2026-03-20,Hyderabad,LinkedIn,6,Selected
+330,"Candidate 330",DataBridge,"Data Analyst",Offer,Pending,Complete,Validated,2026-07-20,Hyderabad,Naukri,8,Pending
+331,"Candidate 331",DataBridge,"Power BI Developer",Screening,Pass,Complete,Validated,2026-08-21,Bengaluru,"Career Portal",3,Selected
+332,"Candidate 332",NovaTech,"Business Analyst","HR Round",Fail,Complete,Validated,2026-03-12,Pune,"Career Portal",10,"Not Selected"
+333,"Candidate 333","Apex Systems","Data Engineer","Manager Round",Fail,Complete,Validated,2026-07-10,Bengaluru,LinkedIn,8,"Not Selected"
+334,"Candidate 334",InnovaWorks,"HR Analyst","HR Round",Pass,Complete,Validated,2026-02-09,Mumbai,"Career Portal",5,Selected
+335,"Candidate 335",NovaTech,"Power BI Developer","Manager Round",Fail,Complete,Validated,2026-05-11,Bengaluru,Referral,0,"Not Selected"
+336,"Candidate 336",BluePeak,"HR Analyst",Screening,Pending,Complete,Validated,2026-08-30,Chennai,Referral,8,Pending
+337,"Candidate 337",InnovaWorks,"Data Engineer","Manager Round",Pending,Incomplete,Validated,2026-05-08,Hyderabad,LinkedIn,0,Pending
+338,"Candidate 338","Apex Systems","Power BI Developer","Technical Round",Fail,Complete,Pending,2026-04-02,Bengaluru,Naukri,9,"Not Selected"
+339,"Candidate 339",NovaTech,"Data Engineer",Offer,Pending,Incomplete,Validated,2026-08-22,Chennai,"Career Portal",1,Pending
+340,"Candidate 340",DataBridge,"HR Analyst","HR Round",Fail,Complete,Validated,2026-07-08,Chennai,Agency,9,"Not Selected"
+341,"Candidate 341",NovaTech,"Data Engineer",Screening,Pending,Complete,Validated,2026-06-27,Bengaluru,Naukri,3,Pending
+342,"Candidate 342",NovaTech,"Business Analyst",Screening,Fail,Complete,Validated,2026-09-09,Hyderabad,LinkedIn,4,"Not Selected"
+343,"Candidate 343",InnovaWorks,"Data Analyst",Offer,Pending,Incomplete,Validated,2026-07-10,Mumbai,LinkedIn,0,Pending
+344,"Candidate 344",InnovaWorks,"Business Analyst",Screening,Fail,Complete,Validated,2026-02-01,Chennai,"Career Portal",8,"Not Selected"
+345,"Candidate 345",BluePeak,"HR Analyst",Offer,Pending,Incomplete,Validated,2026-06-17,Hyderabad,Referral,4,Pending
+346,"Candidate 346","Apex Systems","Data Analyst",Offer,Pass,Complete,Pending,2026-02-25,Chennai,Naukri,1,Selected
+347,"Candidate 347",InnovaWorks,"Data Engineer","Technical Round",Pass,Complete,Validated,2026-04-17,Pune,"Career Portal",7,Selected
+348,"Candidate 348","Apex Systems","Data Engineer",Screening,Fail,Complete,Validated,2026-01-21,Chennai,LinkedIn,1,"Not Selected"
+349,"Candidate 349",BluePeak,"Business Analyst",Offer,Pass,Complete,Validated,2026-06-03,Bengaluru,Naukri,3,Selected
+350,"Candidate 350","Apex Systems","Data Analyst","Manager Round",Fail,Complete,Validated,2026-02-22,Bengaluru,LinkedIn,7,"Not Selected"
+351,"Candidate 351",DataBridge,"Power BI Developer",Screening,Fail,Complete,Validated,2026-02-13,Hyderabad,LinkedIn,3,"Not Selected"
+352,"Candidate 352",NovaTech,"Data Engineer",Offer,Pass,Complete,Validated,2026-03-07,Bengaluru,LinkedIn,0,Selected
+353,"Candidate 353",InnovaWorks,"Data Analyst",Screening,Pending,Incomplete,Pending,2026-07-22,Pune,Naukri,7,Pending
+354,"Candidate 354",NovaTech,"Power BI Developer","Technical Round",Pending,Incomplete,Validated,2026-03-18,Mumbai,Agency,2,Pending
+355,"Candidate 355",NovaTech,"Data Analyst","Manager Round",Fail,Complete,Pending,2026-09-03,Hyderabad,Naukri,3,"Not Selected"
+356,"Candidate 356",DataBridge,"Data Analyst","Technical Round",Fail,Complete,Pending,2026-05-08,Pune,"Career Portal",2,"Not Selected"
+357,"Candidate 357",BluePeak,"HR Analyst","Manager Round",Fail,Complete,Pending,2026-09-15,Hyderabad,Referral,7,"Not Selected"
+358,"Candidate 358",NovaTech,"HR Analyst","Technical Round",Pass,Complete,Pending,2026-05-24,Mumbai,"Career Portal",0,Selected
+359,"Candidate 359",BluePeak,"Power BI Developer",Offer,Pending,Complete,Validated,2026-05-04,Bengaluru,Referral,9,Pending
+360,"Candidate 360","Apex Systems","Business Analyst","HR Round",Fail,Complete,Validated,2026-03-30,Mumbai,"Career Portal",9,"Not Selected"
+361,"Candidate 361",DataBridge,"Business Analyst",Offer,Pass,Complete,Validated,2026-03-14,Pune,Agency,5,Selected
+362,"Candidate 362",NovaTech,"Power BI Developer",Screening,Pass,Complete,Validated,2026-04-23,Pune,LinkedIn,4,Selected
+363,"Candidate 363",BluePeak,"Data Analyst",Offer,Pass,Complete,Validated,2026-04-01,Bengaluru,Referral,5,Selected
+364,"Candidate 364",BluePeak,"Data Analyst","HR Round",Pass,Complete,Validated,2026-09-27,Hyderabad,Naukri,9,Selected
+365,"Candidate 365",InnovaWorks,"HR Analyst",Screening,Pass,Complete,Validated,2026-03-22,Hyderabad,Referral,9,Selected
+366,"Candidate 366",InnovaWorks,"Data Engineer","HR Round",Pending,Incomplete,Validated,2026-03-31,Hyderabad,Referral,8,Pending
+367,"Candidate 367","Apex Systems","Power BI Developer","HR Round",Pending,Incomplete,Pending,2026-01-17,Hyderabad,Agency,2,Pending
+368,"Candidate 368",NovaTech,"Business Analyst","Manager Round",Pass,Complete,Validated,2026-06-19,Hyderabad,"Career Portal",3,Selected
+369,"Candidate 369","Apex Systems","Business Analyst","Manager Round",Pending,Incomplete,Validated,2026-05-16,Bengaluru,"Career Portal",2,Pending
+370,"Candidate 370",InnovaWorks,"Business Analyst","HR Round",Fail,Complete,Validated,2026-08-13,Pune,Naukri,4,"Not Selected"
+371,"Candidate 371","Apex Systems","HR Analyst","Technical Round",Pass,Complete,Pending,2026-04-26,Bengaluru,LinkedIn,6,Selected
+372,"Candidate 372","Apex Systems","HR Analyst",Screening,Pass,Complete,Validated,2026-06-25,Chennai,LinkedIn,4,Selected
+373,"Candidate 373",NovaTech,"HR Analyst",Offer,Pending,Incomplete,Validated,2026-09-05,Chennai,Agency,8,Pending
+374,"Candidate 374",InnovaWorks,"Power BI Developer",Screening,Pass,Complete,Validated,2026-04-08,Mumbai,"Career Portal",6,Selected
+375,"Candidate 375","Apex Systems","Data Analyst","Technical Round",Pass,Complete,Validated,2026-09-09,Hyderabad,LinkedIn,10,Selected
+376,"Candidate 376","Apex Systems","Data Analyst",Screening,Fail,Complete,Validated,2026-09-03,Bengaluru,Referral,6,"Not Selected"
+377,"Candidate 377",InnovaWorks,"HR Analyst","Manager Round",Pending,Incomplete,Pending,2026-06-07,Pune,"Career Portal",2,Pending
+378,"Candidate 378",BluePeak,"Business Analyst","Manager Round",Pass,Complete,Validated,2026-07-15,Pune,LinkedIn,1,Selected
+379,"Candidate 379","Apex Systems","Data Analyst","Technical Round",Pass,Complete,Pending,2026-02-01,Bengaluru,"Career Portal",4,Selected
+380,"Candidate 380",InnovaWorks,"Power BI Developer","Technical Round",Fail,Complete,Validated,2026-02-01,Pune,Agency,8,"Not Selected"
+381,"Candidate 381",BluePeak,"Data Analyst",Offer,Fail,Complete,Pending,2026-09-01,Pune,LinkedIn,10,"Not Selected"
+382,"Candidate 382",NovaTech,"HR Analyst","Manager Round",Fail,Complete,Validated,2026-03-17,Chennai,Referral,8,"Not Selected"
+383,"Candidate 383","Apex Systems","Business Analyst","HR Round",Pass,Complete,Validated,2026-08-11,Mumbai,"Career Portal",3,Selected
+384,"Candidate 384",DataBridge,"Data Engineer",Offer,Pending,Complete,Validated,2026-07-23,Hyderabad,Agency,5,Pending
+385,"Candidate 385",InnovaWorks,"Data Analyst",Offer,Pass,Complete,Validated,2026-09-25,Pune,Referral,7,Selected
+386,"Candidate 386",NovaTech,"Power BI Developer","Manager Round",Fail,Complete,"Issue Found",2026-02-21,Bengaluru,"Career Portal",2,"Not Selected"
+387,"Candidate 387",DataBridge,"Power BI Developer",Offer,Pending,Incomplete,Validated,2026-09-06,Pune,LinkedIn,8,Pending
+388,"Candidate 388",NovaTech,"HR Analyst","Technical Round",Pass,Complete,Validated,2026-07-25,Hyderabad,Referral,2,Selected
+389,"Candidate 389",BluePeak,"Data Engineer","HR Round",Pending,Incomplete,Validated,2026-06-05,Pune,LinkedIn,0,Pending
+390,"Candidate 390",BluePeak,"HR Analyst",Screening,Pending,Incomplete,Pending,2026-06-14,Mumbai,LinkedIn,3,Pending
+391,"Candidate 391",BluePeak,"Data Analyst","Technical Round",Pending,Incomplete,Validated,2026-09-22,Mumbai,Referral,3,Pending
+392,"Candidate 392",DataBridge,"Data Analyst","Technical Round",Fail,Complete,Validated,2026-09-26,Chennai,Referral,1,"Not Selected"
+393,"Candidate 393","Apex Systems","Data Engineer","HR Round",Pass,Complete,Validated,2026-07-04,Hyderabad,Naukri,3,Selected
+394,"Candidate 394",DataBridge,"HR Analyst","Technical Round",Pending,Complete,Validated,2026-09-08,Chennai,Naukri,8,Pending
+395,"Candidate 395",NovaTech,"Data Engineer","Manager Round",Pass,Complete,Pending,2026-05-13,Bengaluru,Naukri,9,Selected
+396,"Candidate 396","Apex Systems","Business Analyst",Screening,Fail,Complete,"Issue Found",2026-04-24,Hyderabad,Naukri,0,"Not Selected"
+397,"Candidate 397",InnovaWorks,"Business Analyst",Screening,Fail,Complete,Pending,2026-01-05,Chennai,Agency,8,"Not Selected"
+398,"Candidate 398",InnovaWorks,"HR Analyst","Technical Round",Fail,Complete,"Issue Found",2026-05-21,Hyderabad,Naukri,0,"Not Selected"
+399,"Candidate 399",DataBridge,"Data Analyst","Technical Round",Pass,Complete,Validated,2026-07-23,Bengaluru,Agency,4,Selected
+400,"Candidate 400",BluePeak,"Data Analyst",Offer,Fail,Complete,Validated,2026-05-25,Pune,LinkedIn,10,"Not Selected"
+401,"Candidate 401",BluePeak,"Business Analyst",Offer,Fail,Complete,Pending,2026-05-14,Chennai,Agency,5,"Not Selected"
+402,"Candidate 402",BluePeak,"Business Analyst",Offer,Fail,Complete,Pending,2026-07-26,Bengaluru,Naukri,3,"Not Selected"
+403,"Candidate 403",DataBridge,"Power BI Developer","Technical Round",Pass,Complete,Validated,2026-01-19,Chennai,"Career Portal",4,Selected
+404,"Candidate 404",DataBridge,"Data Engineer","HR Round",Fail,Complete,Validated,2026-07-03,Chennai,Agency,3,"Not Selected"
+405,"Candidate 405",BluePeak,"Data Analyst","Technical Round",Fail,Complete,Validated,2026-04-04,Chennai,"Career Portal",2,"Not Selected"
+406,"Candidate 406",BluePeak,"Data Engineer","HR Round",Pass,Complete,Pending,2026-06-19,Mumbai,"Career Portal",3,Selected
+407,"Candidate 407",InnovaWorks,"Business Analyst",Offer,Fail,Complete,Pending,2026-02-06,Mumbai,LinkedIn,7,"Not Selected"
+408,"Candidate 408","Apex Systems","Business Analyst","Technical Round",Pass,Complete,Validated,2026-03-19,Hyderabad,Naukri,10,Selected
+409,"Candidate 409",NovaTech,"HR Analyst",Offer,Pending,Complete,Validated,2026-04-03,Hyderabad,Referral,9,Pending
+410,"Candidate 410",DataBridge,"Business Analyst","Manager Round",Pass,Complete,Validated,2026-03-28,Pune,LinkedIn,5,Selected
+411,"Candidate 411",InnovaWorks,"Data Analyst","Manager Round",Fail,Complete,Validated,2026-09-02,Bengaluru,Agency,2,"Not Selected"
+412,"Candidate 412",NovaTech,"Data Analyst","HR Round",Pending,Incomplete,Pending,2026-04-08,Chennai,Referral,3,Pending
+413,"Candidate 413","Apex Systems","Data Analyst","Technical Round",Pass,Complete,Validated,2026-06-06,Bengaluru,"Career Portal",5,Selected
+414,"Candidate 414","Apex Systems","Data Engineer","Manager Round",Fail,Complete,Validated,2026-08-11,Pune,"Career Portal",4,"Not Selected"
+415,"Candidate 415","Apex Systems","Business Analyst",Screening,Pending,Incomplete,Validated,2026-04-25,Bengaluru,Agency,3,Pending
+416,"Candidate 416",InnovaWorks,"Data Engineer",Screening,Pass,Complete,Validated,2026-01-20,Mumbai,Agency,8,Selected
+417,"Candidate 417",NovaTech,"Data Analyst","Manager Round",Pass,Complete,Validated,2026-01-11,Pune,Naukri,0,Selected
+418,"Candidate 418",NovaTech,"Data Engineer",Screening,Pass,Complete,Validated,2026-04-16,Pune,LinkedIn,6,Selected
+419,"Candidate 419",NovaTech,"Power BI Developer","Manager Round",Fail,Complete,Validated,2026-08-03,Mumbai,LinkedIn,10,"Not Selected"
+420,"Candidate 420",BluePeak,"Power BI Developer",Screening,Pass,Complete,Validated,2026-04-13,Chennai,"Career Portal",4,Selected
+421,"Candidate 421",InnovaWorks,"Data Engineer","Technical Round",Pass,Complete,Validated,2026-04-17,Chennai,LinkedIn,6,Selected
+422,"Candidate 422",DataBridge,"Data Analyst","HR Round",Pending,Incomplete,Validated,2026-02-16,Bengaluru,"Career Portal",0,Pending
+423,"Candidate 423",NovaTech,"Business Analyst","Technical Round",Pending,Incomplete,Validated,2026-01-26,Bengaluru,"Career Portal",10,Pending
+424,"Candidate 424",NovaTech,"Data Analyst","HR Round",Pass,Complete,Validated,2026-02-18,Chennai,Referral,5,Selected
+425,"Candidate 425",BluePeak,"Data Engineer","Technical Round",Pass,Complete,Validated,2026-02-17,Chennai,LinkedIn,5,Selected
+426,"Candidate 426",InnovaWorks,"Business Analyst","Technical Round",Fail,Complete,Pending,2026-09-02,Bengaluru,Referral,6,"Not Selected"
+427,"Candidate 427",DataBridge,"HR Analyst",Offer,Fail,Complete,Validated,2026-09-05,Chennai,Agency,0,"Not Selected"
+428,"Candidate 428",InnovaWorks,"HR Analyst","HR Round",Fail,Complete,Pending,2026-03-08,Bengaluru,Naukri,6,"Not Selected"
+429,"Candidate 429",DataBridge,"Power BI Developer",Screening,Pass,Complete,Validated,2026-09-26,Chennai,"Career Portal",7,Selected
+430,"Candidate 430",InnovaWorks,"Data Engineer","Manager Round",Fail,Complete,Validated,2026-05-08,Pune,Referral,8,"Not Selected"
+431,"Candidate 431",DataBridge,"HR Analyst",Offer,Fail,Complete,Validated,2026-03-22,Pune,Referral,8,"Not Selected"
+432,"Candidate 432",NovaTech,"Power BI Developer","HR Round",Pass,Complete,Validated,2026-05-23,Chennai,Agency,1,Selected
+433,"Candidate 433",DataBridge,"HR Analyst","Technical Round",Fail,Complete,Validated,2026-08-16,Bengaluru,Naukri,10,"Not Selected"
+434,"Candidate 434",NovaTech,"Power BI Developer","Technical Round",Pending,Complete,Validated,2026-07-31,Mumbai,LinkedIn,7,Pending
+435,"Candidate 435",InnovaWorks,"Data Engineer","HR Round",Pending,Incomplete,Pending,2026-04-16,Hyderabad,LinkedIn,1,Pending
+436,"Candidate 436",BluePeak,"HR Analyst","HR Round",Pass,Complete,Pending,2026-08-31,Bengaluru,LinkedIn,3,Selected
+437,"Candidate 437",DataBridge,"Power BI Developer","Technical Round",Pass,Complete,Pending,2026-05-30,Hyderabad,LinkedIn,10,Selected
+438,"Candidate 438",NovaTech,"Data Engineer",Offer,Fail,Complete,Pending,2026-07-29,Mumbai,Referral,0,"Not Selected"
+439,"Candidate 439",BluePeak,"Data Analyst",Screening,Pending,Complete,Validated,2026-04-08,Pune,LinkedIn,3,Pending
+440,"Candidate 440",InnovaWorks,"Power BI Developer","HR Round",Fail,Complete,Pending,2026-08-19,Mumbai,Referral,10,"Not Selected"
+441,"Candidate 441",DataBridge,"HR Analyst",Screening,Fail,Complete,Validated,2026-08-10,Mumbai,Referral,7,"Not Selected"
+442,"Candidate 442",DataBridge,"HR Analyst",Screening,Fail,Complete,Validated,2026-06-14,Pune,Agency,9,"Not Selected"
+443,"Candidate 443","Apex Systems","HR Analyst","Technical Round",Pending,Incomplete,Validated,2026-03-10,Mumbai,Agency,3,Pending
+444,"Candidate 444","Apex Systems","Business Analyst","HR Round",Fail,Complete,Validated,2026-04-22,Mumbai,"Career Portal",4,"Not Selected"
+445,"Candidate 445",DataBridge,"Power BI Developer","Technical Round",Fail,Complete,"Issue Found",2026-04-02,Hyderabad,LinkedIn,10,"Not Selected"
+446,"Candidate 446",DataBridge,"Data Engineer","Manager Round",Fail,Complete,"Issue Found",2026-08-02,Pune,LinkedIn,5,"Not Selected"
+447,"Candidate 447","Apex Systems","Data Engineer",Screening,Pass,Complete,Validated,2026-01-29,Chennai,"Career Portal",8,Selected
+448,"Candidate 448","Apex Systems","Power BI Developer","Technical Round",Fail,Complete,Validated,2026-06-01,Bengaluru,"Career Portal",10,"Not Selected"
+449,"Candidate 449","Apex Systems","Power BI Developer",Screening,Pending,Complete,Validated,2026-07-19,Hyderabad,LinkedIn,7,Pending
+450,"Candidate 450",NovaTech,"Data Engineer","Technical Round",Pending,Incomplete,"Issue Found",2026-01-28,Chennai,Agency,6,Pending
+451,"Candidate 451","Apex Systems","Data Engineer","HR Round",Pending,Incomplete,Pending,2026-04-11,Pune,Referral,7,Pending
+452,"Candidate 452",BluePeak,"Power BI Developer",Screening,Pending,Complete,Validated,2026-08-08,Hyderabad,Referral,10,Pending
+453,"Candidate 453",NovaTech,"Business Analyst","Manager Round",Pass,Complete,Validated,2026-03-21,Hyderabad,Agency,2,Selected
+454,"Candidate 454",InnovaWorks,"Power BI Developer","HR Round",Fail,Complete,Pending,2026-06-04,Mumbai,"Career Portal",0,"Not Selected"
+455,"Candidate 455",DataBridge,"Data Analyst","HR Round",Pass,Complete,Validated,2026-04-05,Mumbai,Referral,1,Selected
+456,"Candidate 456",BluePeak,"Data Engineer","Manager Round",Pass,Complete,Validated,2026-04-20,Hyderabad,"Career Portal",6,Selected
+457,"Candidate 457",NovaTech,"Data Engineer",Offer,Fail,Complete,Validated,2026-01-05,Pune,Referral,3,"Not Selected"
+458,"Candidate 458",InnovaWorks,"Data Analyst","Manager Round",Fail,Complete,"Issue Found",2026-06-14,Pune,"Career Portal",10,"Not Selected"
+459,"Candidate 459",DataBridge,"Power BI Developer","HR Round",Pass,Complete,Validated,2026-07-11,Pune,Naukri,8,Selected
+460,"Candidate 460",NovaTech,"Business Analyst","Technical Round",Fail,Complete,Validated,2026-02-12,Mumbai,Agency,0,"Not Selected"
+461,"Candidate 461",InnovaWorks,"Data Analyst","Manager Round",Pass,Complete,Validated,2026-04-20,Chennai,Agency,0,Selected
+462,"Candidate 462",NovaTech,"Data Analyst","Manager Round",Pending,Complete,Validated,2026-06-19,Bengaluru,LinkedIn,6,Pending
+463,"Candidate 463",BluePeak,"HR Analyst","HR Round",Fail,Complete,Validated,2026-04-27,Pune,Naukri,2,"Not Selected"
+464,"Candidate 464",DataBridge,"Data Analyst","Technical Round",Pass,Complete,Validated,2026-03-02,Mumbai,LinkedIn,10,Selected
+465,"Candidate 465",NovaTech,"Data Engineer",Screening,Fail,Complete,Validated,2026-09-15,Hyderabad,Agency,9,"Not Selected"
+466,"Candidate 466",InnovaWorks,"Business Analyst","Technical Round",Pending,Incomplete,Validated,2026-01-16,Mumbai,Referral,1,Pending
+467,"Candidate 467","Apex Systems","Data Engineer","HR Round",Fail,Complete,Pending,2026-06-01,Hyderabad,LinkedIn,2,"Not Selected"
+468,"Candidate 468",DataBridge,"Power BI Developer",Offer,Pass,Complete,Validated,2026-07-21,Bengaluru,"Career Portal",8,Selected
+469,"Candidate 469","Apex Systems","Business Analyst","HR Round",Pending,Incomplete,Validated,2026-09-20,Chennai,Referral,3,Pending
+470,"Candidate 470",DataBridge,"HR Analyst","HR Round",Pass,Complete,Validated,2026-01-28,Mumbai,LinkedIn,9,Selected
+471,"Candidate 471",BluePeak,"Data Engineer","HR Round",Pass,Complete,Validated,2026-09-07,Chennai,Referral,4,Selected
+472,"Candidate 472",InnovaWorks,"Data Engineer","Technical Round",Pass,Complete,Validated,2026-09-06,Mumbai,"Career Portal",1,Selected
+473,"Candidate 473","Apex Systems","Data Analyst",Screening,Fail,Complete,Pending,2026-08-08,Hyderabad,Referral,9,"Not Selected"
+474,"Candidate 474","Apex Systems","Data Engineer","HR Round",Fail,Complete,Validated,2026-07-04,Pune,Naukri,3,"Not Selected"
+475,"Candidate 475",DataBridge,"Data Analyst","Technical Round",Pass,Complete,Validated,2026-03-31,Hyderabad,Referral,7,Selected
+476,"Candidate 476",NovaTech,"Power BI Developer",Screening,Fail,Complete,Validated,2026-02-08,Bengaluru,Agency,8,"Not Selected"
+477,"Candidate 477",DataBridge,"Power BI Developer","Technical Round",Fail,Complete,Pending,2026-05-14,Pune,Referral,9,"Not Selected"
+478,"Candidate 478",DataBridge,"Data Analyst","Technical Round",Pending,Incomplete,Validated,2026-09-14,Pune,"Career Portal",5,Pending
+479,"Candidate 479",DataBridge,"Business Analyst",Screening,Pass,Complete,"Issue Found",2026-03-26,Pune,Referral,8,Selected
+480,"Candidate 480",InnovaWorks,"Data Engineer","Manager Round",Fail,Complete,Pending,2026-03-16,Bengaluru,Referral,2,"Not Selected"
+481,"Candidate 481",DataBridge,"Data Engineer","Technical Round",Pass,Complete,Validated,2026-04-16,Pune,Naukri,7,Selected
+482,"Candidate 482",DataBridge,"Data Engineer",Offer,Pass,Complete,Validated,2026-02-22,Hyderabad,Agency,7,Selected
+483,"Candidate 483",DataBridge,"Data Engineer","Manager Round",Pass,Complete,Validated,2026-02-09,Pune,Referral,8,Selected
+484,"Candidate 484",DataBridge,"Data Analyst","Technical Round",Fail,Complete,Validated,2026-09-04,Mumbai,Referral,8,"Not Selected"
+485,"Candidate 485","Apex Systems","Business Analyst",Screening,Pass,Complete,Validated,2026-04-19,Chennai,"Career Portal",7,Selected
+486,"Candidate 486",NovaTech,"HR Analyst","HR Round",Pass,Complete,Validated,2026-06-19,Pune,Naukri,9,Selected
+487,"Candidate 487",NovaTech,"Business Analyst","Manager Round",Fail,Complete,Validated,2026-05-05,Mumbai,Agency,3,"Not Selected"
+488,"Candidate 488",NovaTech,"Business Analyst",Screening,Fail,Complete,Pending,2026-03-17,Hyderabad,Referral,2,"Not Selected"
+489,"Candidate 489",BluePeak,"Data Analyst",Offer,Fail,Complete,Validated,2026-01-10,Chennai,Naukri,8,"Not Selected"
+490,"Candidate 490",DataBridge,"Business Analyst",Offer,Pending,Complete,Validated,2026-07-30,Mumbai,Referral,9,Pending
+491,"Candidate 491",InnovaWorks,"Power BI Developer","Manager Round",Pass,Complete,Validated,2026-06-25,Mumbai,LinkedIn,9,Selected
+492,"Candidate 492",DataBridge,"HR Analyst","Technical Round",Pass,Complete,Validated,2026-09-25,Chennai,Agency,3,Selected
+493,"Candidate 493",NovaTech,"Data Analyst",Screening,Pending,Complete,Pending,2026-09-15,Pune,Referral,1,Pending
+494,"Candidate 494",DataBridge,"HR Analyst","Manager Round",Pass,Complete,"Issue Found",2026-08-09,Hyderabad,LinkedIn,9,Selected
+495,"Candidate 495",BluePeak,"Power BI Developer","Technical Round",Pending,Incomplete,Pending,2026-07-15,Mumbai,LinkedIn,8,Pending
+496,"Candidate 496",BluePeak,"Power BI Developer",Screening,Fail,Complete,Validated,2026-02-12,Mumbai,Naukri,6,"Not Selected"
+497,"Candidate 497",NovaTech,"Power BI Developer",Screening,Fail,Complete,Pending,2026-09-25,Bengaluru,Naukri,4,"Not Selected"
+498,"Candidate 498","Apex Systems","HR Analyst","Technical Round",Fail,Complete,Validated,2026-02-24,Mumbai,"Career Portal",10,"Not Selected"
+499,"Candidate 499",InnovaWorks,"Business Analyst",Offer,Pass,Complete,Validated,2026-05-22,Pune,Agency,4,Selected
+500,"Candidate 500",BluePeak,"Power BI Developer","Manager Round",Pass,Complete,Validated,2026-05-10,Hyderabad,Naukri,8,Selected
