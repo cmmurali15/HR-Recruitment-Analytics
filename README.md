@@ -81,6 +81,7 @@ The Airflow DAG was successfully executed and validated through an Airflow DAG t
 ## Repository Files
 
 - `HR_Recruitment_Analytics_PySpark.ipynb` — PySpark and Airflow project notebook
+-  HR_Recruitment_Analytics_SQL.sql` — SQL queries for recruitment analytics and KPI analysis`
 - `hr_recruitment_analytics_elt.py` — Apache Airflow DAG
 - `recruitment_data.csv` — Recruitment dataset
 - `recruitment_curated.csv` — Curated recruitment dataset
